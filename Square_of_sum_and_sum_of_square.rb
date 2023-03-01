@@ -10,7 +10,7 @@ for i in 0..number
     square_of_sum= sum*sum
     sum_of_square=sqr
  
-    puts "square_of_sum -sum_of_square is #{square_of_sum - sum_of_square}"
+    puts "difference between square_of_sum and sum_of_square from 1 to 5  is #{square_of_sum - sum_of_square}"
 end
 
 
